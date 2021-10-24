@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNoteCompose</string>
+    <string name="your_note">Твои заметки</string>
+    <string name="note_deleted">Заметка удалена</string>
+    <string name="undo">Отмена</string>
+    <string name="title">Заголовок</string>
+    <string name="date">Дата</string>
+    <string name="color">Цвет</string>
+    <string name="ascending">По возростанию</string>
+    <string name="descending">По убыванию</string>
+    <string name="couldnt_save_note">Невозможно сохранить заметку</string>
+    <string name="enter_title">Введите заголовок…</string>
+    <string name="enter_content">Введите текст заметки…</string>
+    <string name="empty_title_error">Заголовок не может быть пустым</string>
+    <string name="empty_conten_error">Текст заметки не может быть пустым</string>
+</resources>

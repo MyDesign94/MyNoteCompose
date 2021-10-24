@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyNoteCompose</string>
+    <string name="your_note">Your note</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="undo">Undo</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="color">Color</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="couldnt_save_note">Couldn\'t save note</string>
+    <string name="enter_title">Enter title…</string>
+    <string name="enter_content">Enter content…</string>
+    <string name="empty_title_error">The title of the note can\'t be empty</string>
+    <string name="empty_conten_error">The content of the note can\'t be empty</string>
+</resources>
